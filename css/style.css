@@ -133,7 +133,7 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  height: 75px;
+  min-height: 75px;
   position: fixed;
   left: 0;
   bottom: 0; /*do i need to add padding to the footer*/
